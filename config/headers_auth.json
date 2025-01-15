@@ -1,0 +1,32 @@
+{
+    "accept": "*/*",
+        "accept-language": "en-US,en;q=0.9,es;q=0.8",
+        "authorization": "SAPISIDHASH 1696171574_a14a4469d7e2ca4d7dd459e1a1f2c7d05154056e",
+        "content-type": "application/json",
+        "cookie": "VISITOR_INFO1_LIVE=2K1P3wwQYWs; LOGIN_INFO=AFmmF2swRAIgZ5aXuPG5gNNyKcFegfalpeb7W15Zr9fggMGMmzZk5i8CIBxVG0AzV7qkA3TWPB_9Oe0jEHLJxM9wDtNgdJ9F--J-:QUQ3MjNmeXlTZTJhVm15TnRMbGp3VWkwY1ZBRXBvS3pkNGRuWnZsb0NKNnZCb05DdWRqUHRHcHlCOExOT1dEM1pBa2VWTzVLSEhJaUt0b0pVSUZCMlVVdXVXclg3SWdvTFBJaUQ1dkFjMGRCa0wycVhKUzg0eFdFS0oxdWo0LV9qMGJ1aE5JQkg2YUx4WlVsZTd3c2UwRUZvM1hGdk1DVjlR; SID=bgjk4usxYJgm54u2xKkj9PyR2X-5Jq1dl9uw-7JwYC9ji1h_RVuyk03UwOokBX7I6VPtVg.; __Secure-1PSID=bgjk4usxYJgm54u2xKkj9PyR2X-5Jq1dl9uw-7JwYC9ji1h_mAPP3g-LILjq5_C0csoE_g.; __Secure-3PSID=bgjk4usxYJgm54u2xKkj9PyR2X-5Jq1dl9uw-7JwYC9ji1h_j-58o7JGUz_8292fjA4WLQ.; HSID=ApRfkWf6WV2ivdkzy; SSID=AIX4tGNfbsQwIeyon; APISID=ASLkEh3qpGpBfEWO/AQxgQ0igvtk3EfS3k; SAPISID=Qj_kpT8x3g_D9Xnv/AnYs6vfm-2wJnPPWz; __Secure-1PAPISID=Qj_kpT8x3g_D9Xnv/AnYs6vfm-2wJnPPWz; __Secure-3PAPISID=Qj_kpT8x3g_D9Xnv/AnYs6vfm-2wJnPPWz; YSC=2DDCAE0JH14; VISITOR_PRIVACY_METADATA=CgJVUxICGgA%3D; _gcl_au=1.1.2088786870.1696171501; SIDCC=ACA-OxPp57-s2OpyJy-KChaVG1eif--aPR7aIoq3SCfGW0b5Bp4E8qP02l2zpA8BVTBjU5WooA; __Secure-1PSIDCC=ACA-OxMf0M31yVm9PSbCywuMHI1LoMSmqL7JeuXqrJfAUHcABm_YriT6HIL2nEdAvppWFE34Eg; __Secure-3PSIDCC=ACA-OxP7-ZFLZYtL_L-jkw1N-82acRHjBYnH3OdApk5pxxR5bIrYsGqfJ_oMd6di5d1Pudr1nQ",
+        "origin": "https://music.youtube.com",
+        "referer": "https://music.youtube.com/",
+        "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+        "sec-ch-ua-arch": "\"x86\"",
+        "sec-ch-ua-bitness": "\"64\"",
+        "sec-ch-ua-full-version": "\"117.0.5938.132\"",
+        "sec-ch-ua-full-version-list": "\"Google Chrome\";v=\"117.0.5938.132\", \"Not;A=Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"117.0.5938.132\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "sec-ch-ua-platform-version": "\"13.4.0\"",
+        "sec-ch-ua-wow64": "?0",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "same-origin",
+        "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+        "x-client-data": "CJSTywE=",
+        "x-goog-authuser": "0",
+        "x-goog-visitor-id": "CgsySzFQM3d3UVlXcyi0jOaoBjIICgJVUxICGgA%3D",
+        "x-origin": "https://music.youtube.com",
+        "x-youtube-bootstrap-logged-in": "true",
+        "x-youtube-client-name": "67",
+        "x-youtube-client-version": "1.20230925.00.00"
+}
+
+
